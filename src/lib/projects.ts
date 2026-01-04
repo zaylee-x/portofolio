@@ -39,7 +39,7 @@ export const projects: Project[] = [
     tags: ["UI/UX", "Research", "Prototype"],
     image: "/maritimate.svg",
     accent: "purple",
-    link: "https://www.figma.com/design/qrkyMfmPnqjz3TMxlJQqZH/UI-UX-Bootcamp-SC?node-id=0-1&t=1mjc46DxCRDEGmYh-1",
+    link: "https://www.figma.com/design/qrkyMfmPnqjz3TMxlJQqZH/UI-UX-Bootcamp-SC?node-id=12-3255&t=YfMUi8V0Wo37QNO0-1",
   },
 
   // FRONTEND
