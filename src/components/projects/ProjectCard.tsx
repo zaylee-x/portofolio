@@ -75,7 +75,7 @@ export function ProjectCard({ project, index }: Props) {
 
             {project.type === "frontend" && project.repo && (
               <a href={project.repo}>
-                <Image src="/Github.svg" alt="GitHub" width={36} height={36} />
+                <Image src="/GitHub.svg" alt="GitHub" width={36} height={36} />
               </a>
             )}
           </div>
