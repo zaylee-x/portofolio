@@ -12,7 +12,10 @@ const baloo = Baloo_2({
 })
 
 export const metadata: Metadata = {
-  title: "Portfolio | Designing Future Experiences",
+  title: "Sylva-Portofolio | Designing Future Experiences",
+    icons: {
+    icon: "/rabbit.svg",
+  },
   description: "UI/UX Designer • Frontend Dev • AI Product Builder",
 }
 
@@ -28,7 +31,6 @@ export default function RootLayout({
       >
         <SmoothScroll>
           <Navbar />
-          {/* ⬇️ PENTING: TANPA min-h-screen */}
           <main className="relative w-full overflow-hidden">
             {children}
           </main>
