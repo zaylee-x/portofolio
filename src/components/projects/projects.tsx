@@ -37,7 +37,7 @@ export function Projects() {
               }`}
           >
             <Image
-              src={activeTab === "uiux" ? "/figma-hover.svg" : "/figma.svg"}
+              src={activeTab === "uiux" ? "/Figma-hover.svg" : "/Figma.svg"}
               alt="Figma Icon"
               width={24}
               height={24}
@@ -58,7 +58,7 @@ export function Projects() {
               }`}
           >
             <Image
-              src={activeTab === "frontend" ? "/code-hover.svg" : "/code.svg"}
+              src={activeTab === "frontend" ? "/Code-hover.svg" : "/Code.svg"}
               alt="Code Icon"
               width={24}
               height={24}

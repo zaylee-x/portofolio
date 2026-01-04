@@ -59,7 +59,7 @@ export function ProjectCard({ project, index }: Props) {
                 href={project.link}
                 className="flex items-center gap-2 px-5 py-2 rounded-full border border-white/30 text-[#E2F1FF] hover:bg-white/10 transition"
               >
-                <Image src="/figma-case.svg" alt="" width={18} height={18} />
+                <Image src="/Figma-case.svg" alt="" width={18} height={18} />
                 Case Study
               </a>
             )}
@@ -75,7 +75,7 @@ export function ProjectCard({ project, index }: Props) {
 
             {project.type === "frontend" && project.repo && (
               <a href={project.repo}>
-                <Image src="/github.svg" alt="GitHub" width={36} height={36} />
+                <Image src="/Github.svg" alt="GitHub" width={36} height={36} />
               </a>
             )}
           </div>
