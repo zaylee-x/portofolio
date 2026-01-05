@@ -31,7 +31,7 @@ export function Footer() {
             target="_blank"
             className="hover:opacity-80 transition"
           >
-            <Image src="/Github.png" alt="GitHub" width={24} height={24} />
+            <Image src="/GitHub.png" alt="GitHub" width={24} height={24} />
           </Link>
           <Link
             href="www.linkedin.com/in/sylva-zilyasri"
