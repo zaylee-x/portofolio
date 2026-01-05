@@ -25,7 +25,7 @@ const tools = [
   { name: "Notion", desc: "Documentation & design system notes", icon: "/Notion.svg" },
   { name: "HTML", desc: "Frontend Development", icon: "/HTML.svg" },
   { name: "CSS", desc: "Frontend Development", icon: "/CSS.svg" },
-  { name: "Next.js", desc: "Frontend Development", icon: "/Javascript.svg" },
+  { name: "Next.js", desc: "Frontend Development", icon: "/JavaScript.svg" },
   { name: "GitHub", desc: "Collaboration", icon: "/GitHub-tools.svg" },
 ]
 
